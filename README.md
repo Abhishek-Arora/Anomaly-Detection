@@ -4,3 +4,10 @@ Suppose you want to develop a model that can detect anomalous connections to you
 
 
 [udp,SF,0,105,146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,1.00,0.00,0.00,255,240,0.94,0.01,0.00,0.00,0.00,0.00,0.00,0.00]
+
+
+Our task is to take these feature vectors as input and develop an unsupervised-learning model to detect anomalous connections.
+
+##Data
+
+The sample dataset can be found in the log-features-sample folder of this repository.
